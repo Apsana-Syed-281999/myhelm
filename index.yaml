@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  aps:
+  - apiVersion: v2
+    appVersion: bus
+    created: "2026-09-17T11:40:42.051626745Z"
+    description: A Helm chart for Kubernetes
+    digest: 61175594331b899418c91db821ad80824c5a312873a9ffda9dec51ca11c5eb15
+    name: aps
+    type: application
+    urls:
+    - aps-0.1.0.tgz
+    version: 0.1.0
+generated: "2026-09-17T11:40:42.05106527Z"
